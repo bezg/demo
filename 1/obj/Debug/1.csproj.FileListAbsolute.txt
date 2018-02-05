@@ -1,0 +1,5 @@
+D:\1\1\bin\Debug\1.exe.config
+D:\1\1\bin\Debug\1.exe
+D:\1\1\bin\Debug\1.pdb
+D:\1\1\obj\Debug\1.exe
+D:\1\1\obj\Debug\1.pdb
